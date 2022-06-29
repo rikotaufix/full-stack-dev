@@ -1,0 +1,5 @@
+FULL STACK DEVELOPER
+-Fundamental basic of things
+- FE HTML, CSS, JAVASCRIPT
+- BE API
+- FS5

@@ -1,6 +1,9 @@
 FULL STACK DEVELOPER
 -Fundamental basic of things
-- FE HTML, CSS, JAVASCRIPT
-- BE API
+- FE
+  -framework
+- BE
+  - api
+  - codeigniter
 - FS
 - Membuat Website portofolio

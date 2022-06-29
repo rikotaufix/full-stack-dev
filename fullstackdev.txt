@@ -5,9 +5,5 @@ FULL STACK DEVELOPER
   - css
     - framework css
   - javascript
-- BE
-  - framework
-  - api
-  - codeigniter
-- FS
-- Membuat Website portofolio
+    - frameworke js
+    * angular react

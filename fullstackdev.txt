@@ -1,8 +1,11 @@
 FULL STACK DEVELOPER
 -Fundamental basic of things
 - FE
-  -framework
+  - html
+  - css
+  - javascript
 - BE
+  -framework
   - api
   - codeigniter
 - FS

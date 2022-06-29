@@ -4,6 +4,9 @@ FULL STACK DEVELOPER
   - html
   - css
   - javascript
-- BE API
+- BE
+  -framework
+  - api
+  - codeigniter
 - FS
 - Membuat Website portofolio

@@ -3,9 +3,10 @@ FULL STACK DEVELOPER
 - FE
   - html
   - css
+    - framework css
   - javascript
 - BE
-  -framework
+  - framework
   - api
   - codeigniter
 - FS

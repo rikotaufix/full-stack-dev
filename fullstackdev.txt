@@ -5,6 +5,8 @@ FULL STACK DEVELOPER
   - css
     - framework css
   - javascript
+    - framework js
+    angular js
 - BE
   - framework
   - api
